@@ -2,6 +2,8 @@
 (function() {
   alert("Hello World");
 
+  alert("Hi, again");
+
 }).call(this);
 
 //# sourceMappingURL=main.js.map
