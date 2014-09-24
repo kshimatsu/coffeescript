@@ -1,2 +1,2 @@
-alert "Hello World"
-alert "Hi, again"
+$ ->
+	alert "Hello World!"
